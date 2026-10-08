@@ -1,0 +1,10 @@
+.env
+node_modules/
+dist/
+venv/
+.venv/
+__pycache__/
+*.pkl
+.idea/
+desktop.ini
+/package-lock.json
