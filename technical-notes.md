@@ -4,6 +4,8 @@ The CKD Predictor web app estimates Chronic Kidney Disease (CKD) risk from blood
 
 > This tool is for educational purposes only and is not a substitute for professional medical advice.
 
+For an overview of the machine learning model, see [README.md](README.md).
+
 ## Project structure
 
 ```
